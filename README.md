@@ -50,10 +50,10 @@
 
 <h2 align="left">💡 What I build</h2>
 
-- Full-stack SaaS platform for a cybersecurity company — real-time dashboards, fast response tools & all the nerdy backend stuff  
-- Modern e-commerce apps with secure payments, admin dashboards & role-based access  
-- Social & collaborative web apps with live chat, real-time updates & beautiful UIs  
-- Cloud-ready apps deployed via Docker, Kubernetes & CI/CD pipelines
+- Full-stack SaaS platforms for cybersecurity — real-time dashboards, fast incident response tools & enterprise-grade security baked in
+- Modern e-commerce solutions with secure payments, sleek admin dashboards & responsive user experiences
+- Social & collaborative web apps with live chat, user matchmaking & interactive features
+- Cloud-ready applications shipped with Docker, Kubernetes & automated CI/CD — built to scale, deploy and run smoothly in production  
 
 ###
 
