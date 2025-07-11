@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Hi, I'm Ruslan — Building Full-Stack SaaS Solutions from Israel 🇮🇱</h1>
 
 ###
 
