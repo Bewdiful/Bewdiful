@@ -2,24 +2,25 @@
 
 ###
 
-<p align="left">My name is Ruslan Borisevich and I'm a Full-Stack Software Engineer from Israel 🇮🇱</p>
+<p align="left">I'm Ruslan Borisevich — a passionate Full-Stack Software Engineer from Israel 🇮🇱 crafting high-impact SaaS products and cloud-native apps.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 About me</h2>
 
 ###
 
 <p align="left">
-✨ Creating bugs since 2019 (Bachelor's in Software Engineering at SCE)<br>
-📚 I'm currently learning advanced full-stack patterns, Docker & Kubernetes, and modern CI/CD pipelines<br>
-🎯 Goals: Build secure, scalable SaaS products that solve real-world problems & grow as a backend/cloud engineer<br>
-🎲 Fun fact: Huge gaming & tech enthusiast 🎮 who loves mixing code, cloud & caffeine ☕
+✨ Coding since 2019 with a B.Sc in Software Engineering from SCE.<br>
+💡 I design, build & deploy full-stack solutions — from backend APIs to frontend UIs, and from CI/CD pipelines to secure cloud deployments.<br>
+📚 Currently sharpening my skills in advanced Docker & Kubernetes, scalable architectures, and modern CI/CD.<br>
+🎯 Mission: Turn complex ideas into secure, scalable products that bring real business value.<br>
+🎲 Fun fact: Gamer, tech explorer & lifelong learner who loves turning coffee ☕ into code.
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠️ Tech I work with</h2>
 
 ###
 
@@ -47,19 +48,22 @@
 
 ###
 
-<h2 align="left">🔧 What I build</h2>
+<h2 align="left">💡 What I build</h2>
 
-- SaaS platforms with real-time monitoring, MTTR² reduction & enterprise compliance  
-- E-commerce apps with PayPal payments, admin dashboards & secure APIs  
-- Social fitness web apps with live chat, activity tracking & responsive UI  
-- CI/CD pipelines, Docker & Kubernetes deployments to cloud
-
-###
-
-<h2 align="left">🌍 Find me</h2>
-
-- ✏️ [My LinkedIn](https://www.linkedin.com/in/ruslan-borisevich)  
-- 💻 [My GitHub](https://github.com/your-github-username)  
+- SaaS platforms that reduce MTTR², enable real-time monitoring & boost compliance  
+- Modern e-commerce apps with secure payments, admin dashboards & role-based access  
+- Social & collaborative web apps with live chat, real-time updates & beautiful UIs  
+- Cloud-ready apps deployed via Docker, Kubernetes & CI/CD pipelines
 
 ###
 
+<h2 align="left">🌍 Let's connect</h2>
+
+- ✏️ [LinkedIn](https://www.linkedin.com/in/ruslan-borisevich)  
+- 💻 [GitHub](https://github.com/your-github-username)  
+
+###
+
+<h2 align="left">✨ Motto</h2>
+
+<p align="left">"Build products that matter. Learn fast. Stay curious."</p>
