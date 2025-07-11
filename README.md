@@ -50,7 +50,7 @@
 
 <h2 align="left">💡 What I build</h2>
 
-- SaaS platforms that reduce MTTR², enable real-time monitoring & boost compliance  
+- Full-stack SaaS platform for a cybersecurity company — real-time dashboards, fast response tools & all the nerdy backend stuff  
 - Modern e-commerce apps with secure payments, admin dashboards & role-based access  
 - Social & collaborative web apps with live chat, real-time updates & beautiful UIs  
 - Cloud-ready apps deployed via Docker, Kubernetes & CI/CD pipelines
