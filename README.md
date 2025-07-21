@@ -39,11 +39,12 @@
 
 ---
 
-**AutoHitech — Website Maintenance & Digital Marketing Specialist**  
+**AutoHitech —  Website Maintenance, Digital Marketing & IT Support Specialist**  
 *(Jun 2020 – Jan 2024 | Hybrid)*  
 - Developed & maintained corporate website
 - Led digital campaigns & product promotion
 - Combined dev skills with digital marketing to boost visibility
+- Provided IT support for daily business operations, including troubleshooting hardware and software issues, managing network connectivity, and assisting staff with technical problems
 
 ###
 
