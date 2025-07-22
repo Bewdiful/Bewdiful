@@ -39,16 +39,14 @@
 
 ---
 
-**AutoHitech — Junior Full‑Stack Developer | Part‑Time During Studies**  
+**AutoHitech — Junior Full-Stack Developer | Website Maintenance, Digital Marketing & IT Support**  
 *(Jun 2020 – Jan 2024 | Hybrid / Remote)*  
-- Worked on basic website tasks using ASP.NET, JavaScript, jQuery, and Bootstrap.  
-- Assisted with simple updates, such as fixing small layout issues or updating product information.
--  Helped modify basic product filters (e.g., by brand, year, or part) on the website.
-- Exposed to digital marketing tools (SEO, Google/Facebook Ads, Canva) to drive targeted campaigns and boost online visibility.  
-- Provided IT support, troubleshooting hardware/software and helping resolve website bugs.
-- Had limited, introductory experience with these technologies.
+- Maintained and enhanced AutoHitech’s corporate website using ASP.NET, JavaScript, jQuery, and Bootstrap.
+- Implemented simple updates and UX/UI improvements by fixing layout issues and updating product information to improve usability and appearance.
+- Modified basic product filters (e.g., by brand, year, part) to enhance user navigation.
+- Utilized digital marketing tools (SEO, Google Analytics, Google/Facebook Ads, Canva) to run targeted campaigns and boost online visibility.  
+- Provided IT support, troubleshooting hardware/software issues to ensure smooth daily operations.
 
-  
 ###
 
 <h2 align="left">🛠️ Tech I work with</h2>
