@@ -39,7 +39,7 @@
 
 ---
 
-**AutoHitech — Junior Full-Stack Developer | Website Maintenance, Digital Marketing & IT Support**  
+**AutoHitech — Website Maintenance, Digital Marketing & IT Support**  
 *(Jun 2020 – Jan 2024 | Hybrid / Remote)*  
 - Maintained and updated the corporate website autohitech.co.il; fixed layout issues and updated product information.
 - Modified product filters and improved UX/UI for better usability and visual appeal.
